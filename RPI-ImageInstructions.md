@@ -1,11 +1,9 @@
 #RaspberryPi-Image
-If you are having trouble downloading the LOAVES-Surveillance programs on to your raspberry pi, follow the link to download the pre-configured SD card image containing everything you need to run the system. Then follow the steps below.
-
-Download the SD card image [here](https://drive.google.com/open?id=0B4w2yS9E929tT21fUU52a2dzbWs)
+If you are having trouble downloading the LOAVES-Surveillance programs on to your raspberry pi, follow [this link](https://drive.google.com/open?id=0B4w2yS9E929tT21fUU52a2dzbWs) to download the pre-configured SD card image containing everything you need to run the system. Then follow the steps below. The current image is running Raspbian Jessie with Pixel
 
 ##Steps for Windows Users
 1. Download the image on to your computer.
-2. Download and install the free program, Win32 Disk Imager [here](https://sourceforge.net/projects/win32diskimager/).
+2. Download and install the free program, Win32 Disk Imager which is found [here](https://sourceforge.net/projects/win32diskimager/).
 3. Once installed, start the program and insert the SD card you will be using on your raspberry pi into your computer.
 4. While Win32 Disk Imager is open, find the "Image File" text box and put in the location of the image of the raspberry pi that you downloaded.
 5. Under "Device", select the SD card that is inserted in your computer.
